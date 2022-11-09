@@ -119,5 +119,189 @@
         "copyright_name": "Blake Hernandez Plachta Lab",
         "media_type": "image",
         "media_link": "https://pbs.twimg.com/media/FaiRqzfXoAEsuaB?format=jpg&name=360x360"
-    }   
+    },
+    {
+        "title": "Human HeLa cancer cells, mitosis",
+        "description": "A deconvolved wide-field fluorescence microscope image of human HeLa cancer cells undergoing mitosis. It shows mitosis waiting for congression (the process that brings all the individual sister chromatid pairs to the metaphase plate). The two chromosomes at the top of the image are not yet aligned on the plate. The DNA is stained blue (DAPI), and the microtubules of the cytoskeleton/spindle red. The green is Aurora B, a protein kinase involved in the polymerisation/depolymerisation of the microtubules during mitosis, and associated with the kinetochores. The turquoise is the overlap between the blue and green fluorescence.",
+        "copyright_link": "https://wellcomecollection.org/concepts/rx65fjhm",
+        "copyright_name": "Paul Andrews/Univ. Dundee.",
+        "media_type": "image",
+        "media_link": "https://iiif.wellcomecollection.org/image/B0005551/full/880%2C/0/default.jpg"
+    },
+    {
+        "title": "Human HeLa cancer cells, mitosis",
+        "description": "A deconvolved wide-field fluorescence microscope image of human HeLa cancer cells undergoing mitosis - various stages shown - bottom left, metaphase; top anaphase; bottom right telophase and far right early interphase. The chromosomes show up white with a DAPI stain. The cytoskeleton/spindle microtubules are blue/purple. The red is Aurora B, a protein kinase involved in the polymerisation/depolymerisation of microtubules during mitosis.",
+        "copyright_link": "https://wellcomecollection.org/concepts/rx65fjhm",
+        "copyright_name": "Paul Andrews/Univ. Dundee.",
+        "media_type": "image",
+        "media_link": "https://iiif.wellcomecollection.org/image/B0005539/full/880%2C/0/default.jpg"
+    },
+    {
+        "title": "Human HeLa cancer cell, tripolar mitosis",
+        "description": "A deconvolved wide-field fluorescence microscope image of a human HeLa cancer cell undergoing aberrant mitosis - the spindle has three poles. The microtubules of the spindle show yellow. The purple is Aurora B, a protein kinase involved in the polymerisation/depolymerisation of the microtubules. The centromeres are blue.",
+        "copyright_link": "https://wellcomecollection.org/concepts/rx65fjhm",
+        "copyright_name": "Paul Andrews/Univ. Dundee.",
+        "media_type": "image",
+        "media_link": "https://iiif.wellcomecollection.org/image/B0005550/full/880%2C/0/default.jpg"
+    },
+    {
+        "title": "Human HeLa cancer cell in metaphase of mitosis",
+        "description": "A composite confocal micrograph of human HeLa cancer cell in metaphase of mitosis. The microtubules of the cytoskeleton/spindle are fluorescing red, the DNA (chromosomes) green.",
+        "copyright_link": "https://wellcomecollection.org/concepts/rx65fjhm",
+        "copyright_name": "Paul Andrews/Univ. Dundee.",
+        "media_type": "image",
+        "media_link": "https://iiif.wellcomecollection.org/image/B0005572/full/880%2C/0/default.jpg"
+    },
+    {
+        "title": "Human HeLa cancer cell in late prometaphase of mitosis",
+        "description": "A composite confocal micrograph of human HeLa cancer cell in late prometaphase of mitosis. The microtubules of the cytoskeleton/spindle are fluorescing red, the DNA (chromosomes) green.",
+        "copyright_link": "https://wellcomecollection.org/concepts/rx65fjhm",
+        "copyright_name": "Paul Andrews/Univ. Dundee.",
+        "media_type": "image",
+        "media_link": "https://iiif.wellcomecollection.org/image/B0005571/full/880%2C/0/default.jpg"
+    },
+    {
+        "title": "Human HeLa cancer cell in prophase of mitosis",
+        "description": "A composite confocal micrograph of a human HeLa cancer cell in prophase of mitosis. The microtubules of the cytoskeleton/spindle are fluorescing red, the DNA (chromosomes) green.",
+        "copyright_link": "https://wellcomecollection.org/concepts/rx65fjhm",
+        "copyright_name": "Paul Andrews/Univ. Dundee.",
+        "media_type": "image",
+        "media_link": "https://iiif.wellcomecollection.org/image/B0005569/full/880%2C/0/default.jpg"
+    },
+    {
+        "title": "Human HeLa cancer cell in anaphase of mitosis",
+        "description": "A composite confocal micrograph of a human HeLa cancer cell in anaphase of mitosis. The microtubules of the cytoskeleton/spindle are fluorescing red, the DNA (chromosomes) green.",
+        "copyright_link": "https://wellcomecollection.org/concepts/rx65fjhm",
+        "copyright_name": "Paul Andrews/Univ. Dundee.",
+        "media_type": "image",
+        "media_link": "https://iiif.wellcomecollection.org/image/B0005570/full/880%2C/0/default.jpg"
+    },
+    {
+        "title": "Human HeLa cancer cell in prometaphase of mitosis",
+        "description": "A composite confocal micrograph of a human HeLa cancer cell in prometaphase of mitosis. The microtubules of the cytoskeleton/spindle are fluorescing red, the DNA (chromosomes) green.",
+        "copyright_link": "https://wellcomecollection.org/concepts/rx65fjhm",
+        "copyright_name": "Paul Andrews/Univ. Dundee.",
+        "media_type": "image",
+        "media_link": "https://iiif.wellcomecollection.org/image/B0005574/full/880%2C/0/default.jpg"
+    },
+    {
+        "title": "Human HeLa cancer cell in telophase of mitosis",
+        "description": "A composite confocal micrograph of a human HeLa cancer cell in telophase of mitosis. The microtubules of the cytoskeleton/spindle are fluorescing red, the DNA (chromosomes) green.",
+        "copyright_link": "https://wellcomecollection.org/concepts/rx65fjhm",
+        "copyright_name": "Paul Andrews/Univ. Dundee.",
+        "media_type": "image",
+        "media_link": "https://iiif.wellcomecollection.org/image/B0005576/full/880%2C/0/default.jpg"
+    },
+    {
+        "title": "Human HeLa cancer cell in early anaphase of mitosis",
+        "description": "A composite confocal micrograph of a human HeLa cancer cell in early anaphase of mitosis. The microtubules of the cytoskeleton/spindle are fluorescing red, the DNA (chromosomes) green.",
+        "copyright_link": "https://wellcomecollection.org/concepts/rx65fjhm",
+        "copyright_name": "Paul Andrews/Univ. Dundee.",
+        "media_type": "image",
+        "media_link": "https://iiif.wellcomecollection.org/image/B0005573/full/880%2C/0/default.jpg"
+    },
+    {
+        "title": "Human HeLa cancer cell, metaphase.",
+        "description": "A deconvolved wide-field fluorescence microscope image of a human HeLa cancer cell in metaphase of mitosis. The chromosomes show whitish blue (DAPI stain for DNA). The microtubules of the cytoskeleton/spindle are blue. The green is Aurora B, a protein kinase involved in the polymerisation/depolymerisation of the microtubules during mitosis. The Red is CENP-F, an outer kinetochore protein that is important for mitosis.",
+        "copyright_link": "https://wellcomecollection.org/concepts/rx65fjhm",
+        "copyright_name": "Paul Andrews/Univ. Dundee.",
+        "media_type": "image",
+        "media_link": "https://iiif.wellcomecollection.org/image/B0005545/full/880%2C/0/default.jpg"
+    },
+    {
+        "title": "Human HeLa cancer cell in anaphase",
+        "description": "A deconvolved wide-field fluorescence microscope image of a human HeLa cancer cell in anaphase of mitosis. The chromosomes are fluorescing blue, and the cytoskeleton microtubules green. The red is INCENP, a protein that regulates and targets Aurora B protein kinase, which is involved in the polymerisation /depolymerisation of microtubules during mitosis.",
+        "copyright_link": "https://wellcomecollection.org/concepts/rx65fjhm",
+        "copyright_name": "Paul Andrews/Univ. Dundee.",
+        "media_type": "image",
+        "media_link": "https://iiif.wellcomecollection.org/image/B0005537/full/880%2C/0/default.jpg"
+    },
+    {
+        "title": "Cytokinesis in neural tube cells of chick embryo",
+        "description": "A deconvolved wide-field fluorescence microscope image of metaphase (a stage of mitosis) in neural tube cells from a chick embryo. The fluorescent compound DAPI (blue) has been used to visualise DNA. Tubulin (microtubules) are in green, and a fluorescent red antibody against phosphorylated histone 3 (phospho H3) shows that these cells are undergoing mitosis.",
+        "copyright_link": "https://wellcomecollection.org/concepts/rx65fjhm",
+        "copyright_name": "Paul Andrews/Univ. Dundee.",
+        "media_type": "image",
+        "media_link": "https://iiif.wellcomecollection.org/image/B0005526/full/880%2C/0/default.jpg"
+    },
+    {
+        "title": "Cytokinesis in neural tube cells of chick embryo",
+        "description": "A deconvolved wide-field fluorescence microscope image of cytokinesis (cell division) in neural tube cells from a chick embryo. The fluorescent compound DAPI (blue) has been used to visualise DNA. Tubulin (microtubules) are in green, and a fluorescent red antibody against phosphorylated histone 3 (phospho H3) shows that these cells are undergoing mitosis.",
+        "copyright_link": "https://wellcomecollection.org/concepts/rx65fjhm",
+        "copyright_name": "Paul Andrews/Univ. Dundee.",
+        "media_type": "image",
+        "media_link": "https://iiif.wellcomecollection.org/image/B0005525/full/880%2C/0/default.jpg"
+    },
+    {
+        "title": "Human HeLa cancer cells, prometaphase",
+        "description": "A deconvolved wide-field fluorescence microscope image of human HeLa cancer cells in prometaphase of mitosis. The chromosomes are green (DAPI stain for DNA). The microtubules of the cytoskeleton/spindle are pink. The blue fluorescence is a cytoplasmic GTPase.",
+        "copyright_link": "https://wellcomecollection.org/concepts/rx65fjhm",
+        "copyright_name": "Paul Andrews/Univ. Dundee.",
+        "media_type": "image",
+        "media_link": "https://iiif.wellcomecollection.org/image/B0005546/full/880%2C/0/default.jpg"
+    },
+    {
+        "title": "Human HeLa cancer cells, metaphase",
+        "description": "A deconvolved wide-field fluorescence microscope image of human HeLa cancer cells in metaphase of mitosis. It shows the metaphase plate just about to separate the chromosomes. The chromosomes are white (DAPI stain for DNA), and the centromeres are yellow. The microtubules of the cytoskeleton/spindle are turquoise blue. The purple is Aurora B, a protein kinase involved in the polymerisation/depolymerisation of the microtubules during mitosis.",
+        "copyright_link": "https://wellcomecollection.org/concepts/rx65fjhm",
+        "copyright_name": "Paul Andrews/Univ. Dundee.",
+        "media_type": "image",
+        "media_link": "https://iiif.wellcomecollection.org/image/B0005547/full/880%2C/0/default.jpg"
+    },
+    {
+        "title": "Human HeLa cancer cells, anaphase",
+        "description": "A deconvolved wide-field fluorescence microscope image of human HeLa cancer cells in anaphase of mitosis. The chromosomes are green (DAPI stain). The microtubuules of the cytoskeleton/spindle are pink/mauve. The red is Aurora B, a protein kinase involved in the polymerisation/depolymerisation of microtubules during mitosis, and also associated with the centromeres, which show up as blackish blobs.",
+        "copyright_link": "https://wellcomecollection.org/concepts/rx65fjhm",
+        "copyright_name": "Paul Andrews/Univ. Dundee.",
+        "media_type": "image",
+        "media_link": "https://iiif.wellcomecollection.org/image/B0005541/full/880%2C/0/default.jpg"
+    },
+    {
+        "title": "Human HeLa cancer cells, anaphase",
+        "description": "A deconvolved wide-field fluorescence microscope image of human HeLa cancer cells in anaphase of mitosis. The chromosomes are stained green with DAPI. The microtubules of the cytoskeleton/spindle are purple. The red is Aurora B, a protein kinase involved in the polymerisation/depolymerisation of the microtubules during mitosis. Yellow is the overlap between the red and green fluorescence.",
+        "copyright_link": "https://wellcomecollection.org/concepts/rx65fjhm",
+        "copyright_name": "Paul Andrews/Univ. Dundee.",
+        "media_type": "image",
+        "media_link": "https://iiif.wellcomecollection.org/image/B0005540/full/880%2C/0/default.jpg"
+    },
+    {
+        "title": "Human cancer cell",
+        "description": "A deconvolved wide-field fluorescence microscope image of a human U20S cancer cell. The microtubules of the cytoskeleton/spindle are fluorescing green. The blue blobs are centromeres stained with human CREST autoantiserum. The red is INCENP, a protein that regulates and targets Aurora B protein kinase, which is involved in the polymerisation /depolymerisation of microtubules during mitosis.",
+        "copyright_link": "https://wellcomecollection.org/concepts/rx65fjhm",
+        "copyright_name": "Paul Andrews/Univ. Dundee.",
+        "media_type": "image",
+        "media_link": "https://iiif.wellcomecollection.org/image/B0005538/full/880%2C/0/default.jpg"
+    },
+    {
+        "title": "Human HeLa cancer cells, cytokinesis",
+        "description": "A deconvolved wide-field fluorescence microscope image of human HeLa cancer cells undergoing cytokinesis (cell division). The chromosomes are red (DAPI stain for DNA). The microtubules of the cytoskeleton/spindle are purple, and the actin white. The green is Aurora B, a protein kinase involved in the polymerisation/depolymerisation of the microtubules during mitosis and cytokinesis.",
+        "copyright_link": "https://wellcomecollection.org/concepts/rx65fjhm",
+        "copyright_name": "Paul Andrews/Univ. Dundee.",
+        "media_type": "image",
+        "media_link": "https://iiif.wellcomecollection.org/image/B0005548/full/880%2C/0/default.jpg"
+    },
+    {
+        "title": "Human HeLa cancer cell chromosome rosettes",
+        "description": "A composite image derived from deconvolved wide-field fluorescence microscope images of chromosome prometaphase \"rosettes\". The chromosomes have been stained with DAPI stains in various colours (orange, blue, mauve and turquoise). The coloured blobs represent the location of probes for centromeres and Aurora B, a protein kinase involved in polymerisation/depolymerisation of microtubules in the spindle during mitosis, and associated with the centromeres.",
+        "copyright_link": "https://wellcomecollection.org/concepts/rx65fjhm",
+        "copyright_name": "Paul Andrews/Univ. Dundee.",
+        "media_type": "image",
+        "media_link": "https://iiif.wellcomecollection.org/image/B0005543/full/880%2C/0/default.jpg"
+    },
+    {
+        "title": "Human HeLa cancer cells, cytokinesis",
+        "description": "A deconvolved wide-field fluorescence microscope image of human HeLa cancer cells undergoing cytokinesis (cell division). The red fluorescence is the microtubules of the cytoskeleton. The white is actin. The blue is DNA (DAPI stain). The green is Aurora B, a protein kinase involved in the polymerisation/depolymerisation of the microtubules during mitosis and cytokinesis. The yellow area is the overlap between the red and the green fluorescence.",
+        "copyright_link": "https://wellcomecollection.org/concepts/rx65fjhm",
+        "copyright_name": "Paul Andrews/Univ. Dundee.",
+        "media_type": "image",
+        "media_link": "https://iiif.wellcomecollection.org/image/B0005544/full/880%2C/0/default.jpg"
+    },
+    {
+        "title": "Section through neural tube of chick embryo, confocal",
+        "description": "A deconvolved wide-field fluorescence microscope image of a section through the neural tube of a chick embryo. The fluorescent DAPI probe (blue) has been used to show up DNA, and a red fluorescent probe with an antibody to phosphorylated H3 histone (phospho H3) shows where mitosis is taking place. A green fluorescent probe attached to BrdU (5-bromo-2-deoxyuridine), an analogue of thymidine, indicates where DNA synthesis is taking place.",
+        "copyright_link": "https://wellcomecollection.org/concepts/rx65fjhm",
+        "copyright_name": "Paul Andrews/Univ. Dundee.",
+        "media_type": "image",
+        "media_link": "https://iiif.wellcomecollection.org/image/B0005527/full/880%2C/0/default.jpg"
+    }
 ]
