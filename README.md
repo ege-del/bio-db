@@ -1,5 +1,9 @@
 My collection of data related to biology and genetics.
 
+# Repo Info
+
+155 entries on mitosis.json
+
 # Reading Material
 
 ### Wikibooks
