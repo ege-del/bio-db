@@ -18,3 +18,36 @@ My collection of data related to biology and genetics.
 
 ### OpenGenetics
 [Introduction to Genetics](https://opengenetics.pressbooks.tru.ca/)
+
+# External resources
+
+- [Kaggle](https://www.kaggle.com/)
+
+## Cancer Imaging Archive
+- [Collection](https://www.cancerimagingarchive.net/collections/)
+
+## Global Cancer Observatory
+- [Cancer Today](https://gco.iarc.fr/today/home)
+- [Cancer Over Time](https://gco.iarc.fr/overtime/en)
+- [Cancer Tomorrow](https://gco.iarc.fr/tomorrow/en)
+- [Cancer Causes](https://gco.iarc.fr/causes/)
+- [Cancer Survival](https://gco.iarc.fr/survival/survmark/)
+- [Cancer CSU](https://gco.iarc.fr/projects)
+
+## cBioPortal : Open-access cancer genomics data sets
+
+- [Github](https://github.com/cbioportal/cbioportal/)
+- [Datasets](https://www.cbioportal.org/datasets)
+- [Studies](https://www.cbioportal.org/)
+
+## [data.world](https://data.world)
+
+- [Biology](https://data.world/datasets/biology)
+- [Genetics](https://data.world/datasets/genetics)
+- [Cancer](https://data.world/datasets/cancer)
+
+## [BioGPS: Gene annotation portal](http://biogps.org/#goto=welcome)
+
+- [Dataset](http://biogps.org/dataset/)
+- [Dataset > Genetics](http://biogps.org/search/?q=in%3Adataset+genetics)
+
