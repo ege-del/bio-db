@@ -305,7 +305,7 @@
         "media_link": "https://iiif.wellcomecollection.org/image/B0005527/full/880%2C/0/default.jpg"
     },
     {
-        "title": "cells-onion-800px",
+        "title": "Onion Cells",
         "description": "Explore biologycorner's photos on Flickr. biologycorner has uploaded 472 photos to Flickr.",
         "copyright_link": "https://www.flickr.com/photos/biologycorner/",
         "copyright_name": "biologycorner",
@@ -313,7 +313,7 @@
         "media_link": "https://live.staticflickr.com/1871/44399075412_a9b80c703e_z.jpg"
     },
     {
-        "title": "13/365",
+        "title": "Mitosis",
         "description": "I have been taking pictures every day, but I didn't have a card reader at home that could read SDHC cards... Oh well, I have one now. This is from biology class. These are onion root cells with the one in the middle going through mitosis. Yaaay mitosis!",
         "copyright_link": "https://www.flickr.com/photos/verismovita/",
         "copyright_name": "Amanda Scheliga",
@@ -433,7 +433,7 @@
         "media_link": "https://live.staticflickr.com/5143/5558508448_3527124d22_z.jpg"
     },
     {
-        "title": "RED07250",
+        "title": "Mitosis",
         "description": "Onion root tip mitosis",
         "copyright_link": "https://www.flickr.com/photos/davidjthomas/",
         "copyright_name": "Dave Thomas",
@@ -441,7 +441,7 @@
         "media_link": "https://live.staticflickr.com/65535/48948740251_d14bbe7d8e_b.jpg"
     },
     {
-        "title": "20180523mitosis45x3stack_GIMP_InvertedValue",
+        "title": "Mitosis",
         "description": "Mitosis, Horse Ascaris Eggs, slide 76, Celestron kit 44412.  American Optical H10 microscope, AO 45X Achromat objective, trinocular port, prime focus, Nikon V1, generic C-mount adapter, ISO 100, 1/400 second for each of 3 images stacked with CombineZP.  White balance and exposure compensation applied in Capture NX-D before converting from RAW to jpg. GIMP: unsharp mask, levels, value invert (inverts brightness, keeps color). Brightfield capture, no mask in condenser filter tray.",
         "copyright_link": "https://www.flickr.com/photos/dw_ross/",
         "copyright_name": "MostlyDross",
@@ -449,7 +449,7 @@
         "media_link": "https://live.staticflickr.com/890/40499923650_fe7bbe4a93_b.jpg"
     },
     {
-        "title": "P5a_002_épiderme mitoses_epidermis mitosis_Danio rerio",
+        "title": "Mitosis",
         "description": "Partie de flanc du poisson-zèbre marqué à la thymidine tritiée (= thymine radioactive). L’individu a été tué une heure après avoir reçu une injection péritonéale de 3H-TdR (2 μCi/g de poids frais). La présence de grains d’argent (points noirs) aux différentes hauteurs de l’épiderme révèle une extraordinaire particularité du tégument de poissons, à savoir qu'il comporte des cellules vivantes sur toute son épaisseur et peut être le siège de divisions cellulaires à tous niveaux, même superficiels. Cette spécificité, particulièrement avantageuse lors de maladie ou de blessure, montre une différence fondamentale avec l’épiderme de mammifère où seules les cellules de la couche basale (stratum germinativum) se divisent par mitoses !  - Pour plus de détails ou précisions, voir « Atlas of Fish Histology » CRC Press, ou « Histologie illustrée du poisson » (QUAE) ou s'adresser à Franck Genten (fgenten@gmail.com) ---------------------------------------------------------------------------------- An autoradiograph of section of zebrafish side skin from a specimen intraperitoneally injected with tritiated thymidine (thymidine linked to the radioisotope tritium) one hour previously. The silver grains (dark dots) covering the nuclei of dividing cells are found at all levels of the epidermis. This is a major difference compared to mammals where only the basal layer cells (stratum germinativum) undergo mitosis ! This specificity is particularly advantageous in illness or injury situations.    - For more information or details, see « Atlas of Fish Histology » CRC Press, or « Histologie illustrée du poisson » (QUAE) or contact Franck Genten (fgenten@gmail.com) ",
         "copyright_link": "https://www.flickr.com/photos/129522807@N06/",
         "copyright_name": "Franck Genten",
@@ -457,15 +457,14 @@
         "media_link": "https://live.staticflickr.com/7341/16306222597_ca518aa560_b.jpg"
     },
     {
-        "title": "2 - meta",
+        "title": "Mitossi",
         "description": "Metaphase of mitosis of a cell in a garlic root tip. Stain: acetic orcein (for chromosomes) Photographed as St. Michael's school, Burghclere",
         "copyright_link": "https://www.flickr.com/photos/57754818@N03/",
         "copyright_name": "matsjoyce",
         "media_type": "image",
-        "media_link": "https://live.staticflickr.com/7381/13012994595_57a89d3315_z.jpg"
-    },
+        "media_link": "https://live.staticflickr.com/7381/13012994595_57a89d3315_z.jpg" },
     {
-        "title": "4 - telo",
+        "title": "Mitosis",
         "description": "Telophase of mitosis of a cell in a garlic root tip. Stain: acetic orcein (for chromosomes) Photographed as St. Michael's school, Burghclere",
         "copyright_link": "https://www.flickr.com/photos/57754818@N03/",
         "copyright_name": "matsjoyce",
@@ -473,7 +472,7 @@
         "media_link": "https://live.staticflickr.com/3241/13013388604_fca866eeeb_z.jpg"
     },
     {
-        "title": "3 - meta and ana",
+        "title": "Metaphase and Anaphase",
         "description": "Metaphase (center right) and anaphase (center left) of mitosis of a cell in a garlic root tip. Stain: acetic orcein (for chromosomes) Photographed as St. Michael's school, Burghclere",
         "copyright_link": "https://www.flickr.com/photos/57754818@N03/",
         "copyright_name": "matsjoyce",
@@ -489,7 +488,7 @@
         "media_link": "https://live.staticflickr.com/4683/38675704504_6ebe6ba86d_z.jpg"
     },
     {
-        "title": "1 - pro",
+        "title": "Prophase of mitosis",
         "description": "Prophase of mitosis of a cell in a garlic root tip. Stain: acetic orcein (for chromosomes) Photographed as St. Michael's school, Burghclere",
         "copyright_link": "https://www.flickr.com/photos/57754818@N03/",
         "copyright_name": "matsjoyce",
@@ -497,7 +496,7 @@
         "media_link": "https://live.staticflickr.com/7357/13013384324_6f83fba8cb_z.jpg"
     },
     {
-        "title": "5 - cyto",
+        "title": "Cytokinesis",
         "description": "Cytokinesis in a cell in a garlic root tip. Stain: acetic orcein (for chromosomes) Photographed as St. Michael's school, Burghclere",
         "copyright_link": "https://www.flickr.com/photos/57754818@N03/",
         "copyright_name": "matsjoyce",
@@ -553,7 +552,7 @@
         "media_link": "https://live.staticflickr.com/65535/51770724964_773c322643_b.jpg"
     },
     {
-        "title": "RED07248",
+        "title": "Mitosis",
         "description": "Onion root tip mitosis",
         "copyright_link": "https://www.flickr.com/photos/davidjthomas/",
         "copyright_name": "Dave Thomas",
@@ -561,7 +560,7 @@
         "media_link": "https://live.staticflickr.com/65535/48948196743_d2d67f7d7d_b.jpg"
     },
     {
-        "title": "RED07241",
+        "title": "Mitosis",
         "description": "Onion root tip mitosis",
         "copyright_link": "https://www.flickr.com/photos/davidjthomas/",
         "copyright_name": "Dave Thomas",
@@ -577,7 +576,7 @@
         "media_link": "https://live.staticflickr.com/65535/51770724729_3ddae05f51_b.jpg"
     },
     {
-        "title": "RED07257",
+        "title": "Mitosis",
         "description": "Onion root tip mitosis",
         "copyright_link": "https://www.flickr.com/photos/davidjthomas/",
         "copyright_name": "Dave Thomas",
@@ -585,7 +584,7 @@
         "media_link": "https://live.staticflickr.com/65535/48948196533_da9a8da091_b.jpg"
     },
     {
-        "title": "RED07253",
+        "title": "Mitosis",
         "description": "Onion root tip mitosis",
         "copyright_link": "https://www.flickr.com/photos/davidjthomas/",
         "copyright_name": "Dave Thomas",
@@ -601,7 +600,7 @@
         "media_link": "https://live.staticflickr.com/65535/51770085971_9dbaacdeca_b.jpg"
     },
     {
-        "title": "RED07262",
+        "title": "Mitosis",
         "description": "Onion root tip mitosis",
         "copyright_link": "https://www.flickr.com/photos/davidjthomas/",
         "copyright_name": "Dave Thomas",
@@ -697,7 +696,7 @@
         "media_link": "https://live.staticflickr.com/4513/23581050748_b19248d966_b.jpg"
     },
     {
-        "title": "lily mitosis",
+        "title": "Mitosis",
         "description": "#1021 Andrew S. Bajer, University of Oregon, Eugene, NIGMS  \"A light microscope image of a cell from the endosperm of an African globe lily (Scadoxus katherinae). This is one frame of a time-lapse sequence that shows cell division in action. The lily is considered a good organism for studying cell division because its chromosomes are much thicker and easier to see than human ones. Staining shows microtubules in red and chromosomes in blue. Here, condensed chromosomes are clearly visible and lined up.\"  images.nigms.nih.gov/index.cfm?event=viewDetail&image...",
         "copyright_link": "https://www.flickr.com/photos/36128932@N03/",
         "copyright_name": "Kat Masback",
@@ -1025,7 +1024,7 @@
         "media_link": "https://live.staticflickr.com/4679/38535354575_8f04d9765c_z.jpg"
     },
     {
-        "title": "RED07323",
+        "title": "Mitosis",
         "description": "Whitefish blastodisc mitosis",
         "copyright_link": "https://www.flickr.com/photos/davidjthomas/",
         "copyright_name": "Dave Thomas",
@@ -1193,7 +1192,7 @@
         "media_link": "https://live.staticflickr.com/4679/39353787082_de9bf4c629_z.jpg"
     },
     {
-        "title": "RED07338",
+        "title": "Mitosis",
         "description": "Whitefish blastodisc mitosis",
         "copyright_link": "https://www.flickr.com/photos/davidjthomas/",
         "copyright_name": "Dave Thomas",
@@ -1209,7 +1208,7 @@
         "media_link": "https://live.staticflickr.com/4735/27636329289_1a874b6df4_z.jpg"
     },
     {
-        "title": "RED07259",
+        "title": "Mitosis",
         "description": "Onion root tip mitosis",
         "copyright_link": "https://www.flickr.com/photos/davidjthomas/",
         "copyright_name": "Dave Thomas",
@@ -1225,7 +1224,7 @@
         "media_link": "https://live.staticflickr.com/8212/8268010070_2d62996fda_b.jpg"
     },
     {
-        "title": "RED07275",
+        "title": "Mitosis",
         "description": "Onion root tip mitosis",
         "copyright_link": "https://www.flickr.com/photos/davidjthomas/",
         "copyright_name": "Dave Thomas",
@@ -1233,7 +1232,7 @@
         "media_link": "https://live.staticflickr.com/65535/48948738621_e3fb61ceb9_b.jpg"
     },
     {
-        "title": "RED07309",
+        "title": "Mitosis",
         "description": "Onion root tip mitosis",
         "copyright_link": "https://www.flickr.com/photos/davidjthomas/",
         "copyright_name": "Dave Thomas",
