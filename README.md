@@ -6,6 +6,10 @@ My collection of data related to biology and genetics.
 
 # Reading Material
 
+### LibreTexts
+- [Biology](https://bio.libretexts.org/Bookshelves)
+- [Chemistry](https://chem.libretexts.org/Bookshelves)
+
 ### Wikibooks
 - [Wikibooks: Life sciences](https://en.wikibooks.org/wiki/Shelf:Life_sciences)
 - [Biomedical engineering](https://en.wikibooks.org/wiki/Shelf:Biomedical_engineering)
@@ -19,7 +23,7 @@ My collection of data related to biology and genetics.
 ### OpenGenetics
 [Introduction to Genetics](https://opengenetics.pressbooks.tru.ca/)
 
-# External resources
+# Data
 
 - [Kaggle](https://www.kaggle.com/)
 
